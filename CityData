@@ -2,6 +2,6 @@ Data will be created using City-Data.com. Using Beautiful Soup, I scrape their C
 median income level and continue to the neighborhood specific profile to get the zipcodes corresponding to that neighborhood.
 The dataframe from that function is this:
 
-![Alt text](/Docs/Screenshot.jpeg?raw=true "Optional Title")
+![Alt text](/Docs/Screenshot.jpeg?raw=true "My Data")
 
 
