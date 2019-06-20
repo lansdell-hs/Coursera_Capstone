@@ -1,5 +1,8 @@
+Data: 
+
 Data will be created using City-Data.com. Using Beautiful Soup, I scrape their City home page sites gathering the name, population density,
 median income level and continue to the neighborhood specific profile to get the zipcodes corresponding to that neighborhood.
+
 The dataframe from that function is this:
 
 ZipCodes	Neighborhood	PopulationDensity	MedianIncome
@@ -14,7 +17,9 @@ ZipCodes	Neighborhood	PopulationDensity	MedianIncome
 7	23224	Broad Rock	2,222	$37,189
 7	23234	Broad Rock	2,222	$37,189
 
-Through python geocoding, latitude and longitude will be added as columns. 
+for direct vieing of the code used to create the above table, see the Capstone Notebook. 
+
+Through python geocoding (GeoPy), latitude and longitude will be added as columns. 
 This process is completed for city one and city 2. Population and Median Income will be put into categorical variables of 'Low','Medium',
 'High'. Then in combination with the foursquare most common venues, the cluster will be created based on the tale above. 
 
