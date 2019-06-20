@@ -1,4 +1,6 @@
 
+Problem Outline:
+
 For people planning big moves, it would be extremely useful to compare their current location with the potential one.
 They can evaluate the accessibility to grocery stores, gyms, doctors, and more. Utilizing the four square to compare neighborhoods would 
 allow a user to either match a cluster’s characteristics to their current one, or find a different kind of neighborhood to live in. Say 
@@ -7,3 +9,7 @@ with lots of restaurants, coffee shops, etc, to a neighborhood with parks, libra
 appropriate areas in their location and can compare clusters that represent that lifestyle in their new city. 
 
 Goal is to suggest area in target city that reflect the desired traits. 
+
+Audience: 
+
+Professionals and families planning a move out of their current town. Also for users to highlight what traits are important to them. 
