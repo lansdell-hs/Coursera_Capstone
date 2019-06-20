@@ -1,0 +1,5 @@
+Data will be created using City-Data.com. Using Beautiful Soup, I scrape their City home page sites gathering the name, population density,
+median income level and continue to the neighborhood specific profile to get the zipcodes corresponding to that neighborhood.
+The dataframe from that function is this:
+
+![Screenshot](screenshot.png)
